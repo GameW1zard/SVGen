@@ -1,0 +1,7 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"> 
+
+        <polygon points="150,0 250,200  50,200" fill="pink" /> 
+
+        <text font-size="8em" x="85" y="150" fill="black">sue</text> 
+
+        </svg>
